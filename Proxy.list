@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,speedtest.net
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
